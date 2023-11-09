@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.salam{
+   margin: 20px;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+.content{
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn{
+    margin: 10px;
+}
+
+.btn p{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.btn button{
+    width: 30%;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.btn button a{
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: black ;
+}
+
+.btn button a:hover{
+    color: blue;
+}

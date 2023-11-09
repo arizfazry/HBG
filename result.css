@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+}
+
+img{
+    width: 70%;
+    height: 55%;
+    border-radius: 30px;
+    border: 2px solid;
+}

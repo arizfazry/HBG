@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-image: url(wallpaper.jpeg);
+ 
+}
+
+.ttl{
+    font-size: 2.5rem;
+    height: 90px;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+}
+
+.text{
+    border: 2px solid;
+    text-transform: uppercase;
+}
+
+.con1,.con2 p{
+    margin: 20px;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+}
+
+video{
+    border: 2px solid;
+}
+
+p{
+    background-color: antiquewhite;
+}
+
+img{
+    width: auto;
+    height: 550px;
+    border-radius: 30px;
+    border: 2px solid;
+}
+
+.btn{
+    margin: 10px;
+}
+
+.btn p{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.btn button{
+    width: 30%;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.btn button a{
+    font-size: 1.1rem;
+    text-decoration: none;
+    color: black ;
+}
+
+.btn button a:hover{
+    color: blue;
+}
+
